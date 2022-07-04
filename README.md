@@ -1,8 +1,9 @@
 Olá!!! Seja bem-vindo ao meu github👋
 
 -  Procurando oportunidade na área de Front end ou Banco de Dados;
+-  Conhecimento em Excel, Google Sheets para analise de dados;
 -  Estudante de Análise e Desenvolvimento de Sistemas;
--  Atualmente estudando Html, CSS, JavaScript e Excel para análise de dados.
+-  Atualmente estudando Html, CSS, JavaScript;
 
 <div align="center">
   <a href="https://github.com/fabruzzi">
